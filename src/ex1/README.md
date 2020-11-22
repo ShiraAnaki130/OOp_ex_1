@@ -18,7 +18,7 @@ which applicable on an undirectional weighted graph. The class includes several 
 3.getGraph()- returns the underlying graph of which this class works.
 4.isConnected()- checking of the graph is one connected component.
 5.double shortestPathDist(int src, int dest)- returns the smallest distance between src and dest.
-6.List<node_info> shortestPath(int src, int dest)- returns the shortest path with the lowest distance 
+6.List shortestPath(int src, int dest)- returns the shortest path with the lowest distance 
 between src and dest.
 7.save (file).
 8.load(file).
@@ -32,6 +32,6 @@ on both basic and extreme cases, and also builds a graph with a million vertexes
 with the timeout of 4 seconds.
 To use those tests, you need to have the version of JUnit5. 
 For using my codes, write on your terminal the command:
-(your new folder's address) git clone https://github.com/ShiraAnaki130/Ex1.git 
+(your new folder’s address) git clone https://github.com/ShiraAnaki130/Ex1_OOP.git 
 In addition, need to have eclipse, because the programming language is Java.
  Good Luck!
