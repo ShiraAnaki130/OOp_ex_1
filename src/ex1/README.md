@@ -32,6 +32,6 @@ on both basic and extreme cases, and also builds a graph with a million vertexes
 with the timeout of 4 seconds.
 To use those tests, you need to have the version of JUnit5. 
 For using my codes, write on your terminal the command:
-(your new folder's address) git clone https://github.com/ShiraAnaki130/Ex1.git 
+(your new folder's address) git clone https://github.com/ShiraAnaki130/Ex1_OOP.git 
 In addition, need to have eclipse, because the programming language is Java.
  Good Luck!
